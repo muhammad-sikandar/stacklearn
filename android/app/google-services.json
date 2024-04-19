@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089057015353",
+    "project_id": "stackchat-665ab",
+    "storage_bucket": "stackchat-665ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089057015353:android:38f40d674fca14658eefe8",
+        "android_client_info": {
+          "package_name": "com.example.stacklearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxP-KOVR0RsfRkSRdXrbDefmp-Tgc90s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
